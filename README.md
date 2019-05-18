@@ -52,5 +52,7 @@ NPMs: Axios, DotEnv, Moment,
 
 Video Link: (https://drive.google.com/file/d/1q1lKDhGYVEr0DIV-n-1qMb2pXiFdn-lf/view)
 
-<img src="screenshots/1.png" height="400" width="400" alt="Screenshot1"/> 
-<img src="screenshots/2.png" height="400" width="400" alt="Screenshot2"/> 
+
+
+<img src="screenshots/1.png" height="400" width="800" alt="Screenshot1"/> 
+<img src="screenshots/2.png" height="400" width="800" alt="Screenshot2"/> 
