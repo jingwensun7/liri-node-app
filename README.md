@@ -51,4 +51,5 @@ NPMs: Axios, DotEnv, Moment,
 
 
 
- <img src="screenshots/1.png" height="400" alt="Screenshot"/> <img src=“screenshots/2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/1.png" height="400" align="center" alt="Screenshot"/> 
+ <img src="screenshots/2.png" height="400" align="center" alt="Screenshot"/> 
