@@ -50,6 +50,7 @@ NPMs: Axios, DotEnv, Moment,
 * Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the [node-spotify-api package](https://www.npmjs.com/package/node-spotify-api).
 
 
+Video Link: https://drive.google.com/file/d/1q1lKDhGYVEr0DIV-n-1qMb2pXiFdn-lf/view
 
 <img src="screenshots/1.png" height="400" align="center" alt="Screenshot"/> 
- <img src="screenshots/2.png" height="400" align="center" alt="Screenshot"/> 
+<img src="screenshots/2.png" height="400" align="center" alt="Screenshot"/> 
